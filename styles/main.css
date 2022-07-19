@@ -8,7 +8,7 @@
     --color-black-bg: #fff;
     --link-color: #000;
 
-    --side-spacing: 0 0.3em 0 0.3em;
+    --side-spacing: 0 0.8em 0 0.8em;
 
     --border-style: 1px solid rgb(245, 244, 244);
     --border-radius: 0.4em;
@@ -212,7 +212,7 @@ a {
         margin-top: 1em;
         display: flex;
         justify-content: space-between;
-        padding: 1em 0.3em 1em 0.3em;
+        padding: 1em 0.8em 1em 0.8em;
         border-top: var(--border-style);
     }
 
